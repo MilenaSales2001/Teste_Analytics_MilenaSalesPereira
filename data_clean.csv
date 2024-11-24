@@ -1,0 +1,51 @@
+ID,Data,Produto,Categoria,Quantidade,Preço
+1,2023-10-17,Condicionador,Cabelo,1,12.9
+2,2023-02-17,Blush,Maquiagem,4,150.0
+3,2023-08-19,Creme Hidratante,Rosto,1,26.9
+4,2023-08-30,Condicionador,Cabelo,2,12.9
+5,2023-12-06,Sérum com vitamina C,Rosto,3,150.5
+6,2023-11-30,Sérum com vitamina C,Rosto,1,150.5
+7,2023-09-18,Sabonete,Corpo,2,8.9
+8,2023-09-05,Creme Hidratante,Rosto,1,26.9
+9,2023-06-21,Rímel,Maquiagem,2,99.0
+10,2023-01-20,Corretivo,Maquiagem,2,134.3
+11,2023-12-22,Rímel,Maquiagem,2,99.0
+12,2023-01-08,Batom,Maquiagem,2,89.0
+13,2023-04-27,Condicionador,Cabelo,4,12.9
+14,2023-10-11,Corretivo,Maquiagem,2,134.3
+15,2023-11-01,Base,Maquiagem,1,197.99
+16,2023-01-12,Rímel,Maquiagem,4,99.0
+17,2023-02-18,Rímel,Maquiagem,2,99.0
+18,2023-09-30,Creme Hidratante,Rosto,4,26.9
+19,2023-09-21,Batom,Maquiagem,3,89.0
+20,2023-08-19,Sabonete,Corpo,3,8.9
+21,2023-04-27,Condicionador,Cabelo,1,12.9
+22,2023-03-13,Blush,Maquiagem,2,150.0
+23,2023-03-30,Sabonete,Corpo,1,8.9
+24,2023-01-09,Blush,Maquiagem,3,150.0
+25,2023-09-09,Shampoo,Cabelo,1,15.9
+26,2023-02-26,Blush,Maquiagem,3,150.0
+27,2023-07-08,Corretivo,Maquiagem,4,134.3
+28,2023-05-06,Rímel,Maquiagem,1,99.0
+29,2023-05-15,Água micelar,Rosto,3,20.4
+30,2023-08-13,Sabonete,Corpo,4,8.9
+31,2023-04-15,Creme Hidratante,Rosto,1,26.9
+32,2023-06-25,Corretivo,Maquiagem,3,134.3
+33,2023-01-22,Sérum com vitamina C,Rosto,4,150.5
+34,2023-12-15,Blush,Maquiagem,4,150.0
+35,2023-06-04,Corretivo,Maquiagem,3,134.3
+36,2023-10-26,Batom,Maquiagem,3,89.0
+37,2023-11-25,Creme Hidratante,Rosto,3,26.9
+38,2023-07-20,Sérum com vitamina C,Rosto,1,150.5
+39,2023-12-28,Shampoo,Cabelo,4,15.9
+40,2023-07-01,Sabonete,Corpo,3,8.9
+41,2023-10-08,Condicionador,Cabelo,1,12.9
+42,2023-01-02,Corretivo,Maquiagem,2,134.3
+43,2023-11-06,Batom,Maquiagem,3,89.0
+44,2023-10-29,Shampoo,Cabelo,1,15.9
+45,2023-08-11,Shampoo,Cabelo,4,15.9
+46,2023-12-27,Creme Hidratante,Rosto,2,26.9
+47,2023-02-13,Condicionador,Cabelo,1,12.9
+48,2023-09-09,Base,Maquiagem,4,197.99
+49,2023-02-09,Sérum com vitamina C,Rosto,3,150.5
+50,2023-12-30,Corretivo,Maquiagem,2,134.3
