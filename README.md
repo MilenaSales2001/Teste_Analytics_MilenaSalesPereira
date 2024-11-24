@@ -17,8 +17,8 @@ Metodologia:
 7.	Visualização de resultados com gráficos
 
 Resultados:
-•	Produto mais vendido: Sérum com vitamina C
-•	Total de vendas: R$3010.00
+•	Produto mais vendido: Base
+•	Total de vendas: R$3167.84
 •	Categoria mais lucrativa: Maquiagem
 
 Gráficos:
